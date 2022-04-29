@@ -9,3 +9,5 @@ int main()
     result = x * y;
     printf("A soma é: %i", result);
 }
+
+// Comentario teste
