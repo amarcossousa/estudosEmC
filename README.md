@@ -1,4 +1,4 @@
-# estudosEmC
-Códigos dos estudos da linguagem C
+# Estudos Em C
+## Códigos dos estudos da linguagem C
 
-[x]Introdução da linguagem 
+ [x] Introdução da linguagem 
